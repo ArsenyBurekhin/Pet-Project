@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "debug.javascript.autoAttachFilter": "always",
+    "github-enterprise.uri": "https://github.com/ArsenyBurekhin/PeriodicTable/",
+    "github.experimental.multipleAccounts": true
+}
